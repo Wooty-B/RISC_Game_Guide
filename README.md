@@ -12,4 +12,4 @@ This will be WIP for a short time while working out the layout. Goal is to docum
 
 ## BoxWine Emulation
 
-[Working Games List](Boxwine)
+[Working Games List](BoxWine)
