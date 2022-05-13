@@ -1,0 +1,74 @@
+### Steam
+Bit-ness Architecture: 32-bit
+Required Dependencies: N/A
+Notes: Helps to use "steam -no-browser" to suppress errors and slightly improve performance. Only works in Small View and Big Picture modes, Big Picture crashes on exit. Some context menu items do not work/launch.
+
+### Valve Source Games [NEEDS BREAKDOWN]
+Bit-ness Architecture: 32-bit; 64-bit
+Required Dependencies: N/A
+Notes: All Source Engine games run flawlessly with the exception of Portal 2 crashing on launch. Have not tested CS:GO.
+
+### Factorio Demo
+Bit-ness Architecture: 32-bit
+Required Dependencies: N/A
+Notes: Launches with some pretty interesting graphical issues
+
+### Fishing Simulator
+Bit-ness Architecture: 64-bit
+Required Dependencies: N/A
+Notes: Runs a little sluggish, possibly due to clock speeds.
+
+### Goat Simulator
+Bit-ness Architecture: 32-bit
+Required Dependencies: N/A
+Notes: Crashes during Loading screen.
+
+### Garry's Mod
+Bit-ness Architecture: 32-bit
+Required Dependencies: N/A
+Notes: No issues.
+
+### No More Room In Hell
+Bit-ness Architecture: 32-bit
+Required Dependencies: N/A
+Notes: No issues.
+
+### The Pirate: Caribbean Hunt
+Bit-ness Architecture: 32-bit
+Required Dependencies: N/A
+Notes: No issues.
+
+### Quake II RTX
+Bit-ness Architecture: 32-bit
+Required Dependencies: N/A
+Notes: No raytracing capable hardware to test.
+
+### Rouge Legacy
+Bit-ness Architecture: 32-bit
+Required Dependencies: N/A
+Notes: Starts off fine, then the game starts lagging, then data stream bleeds into audio subsystem and causes the absolute worst noises. Kinda funny.
+
+### Super Meat Boy
+Bit-ness Architecture: 32-bit
+Required Dependencies: N/A
+Notes: No issues.
+
+### Surgeon Simulator
+Bit-ness Architecture: 32-bit
+Required Dependencies: N/A
+Notes: Slight lag, but mostly playable.
+
+### Undertale
+Bit-ness Architecture: 32-bit
+Required Dependencies: N/A
+Notes: No issues.
+
+### Unturned
+Bit-ness Architecture: 32-bit
+Required Dependencies: N/A
+Notes: No issues.
+
+### VVVVVV
+Bit-ness Architecture: 32-bit
+Required Dependencies: N/A
+Notes: No issues
