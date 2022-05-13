@@ -1,0 +1,45 @@
+### Amnesia: Dark Descent; Amnesia: Maschine For Pigs
+Bit-ness Architecture: 64-bit
+Required Dependencies: N/A
+Notes: Game runs smoothly, however has issues running in windowed mode. Can suffer dropped frames at higher settings possibly due to clock-speed.
+
+### Amnesia: Rebirth
+Bit-ness Architecture: 64-bit
+Required Dependencies: N/A
+Notes: Segmentation fault after loading required libraries, launching to black screen then closing.
+
+### AssaultCube; Cube 2: Sauterbraten
+Bit-ness Architecture: 64-bit
+Required Dependencies: N/A
+Notes: No issues.
+
+### The Dark Mod
+Bit-ness Architecture: 64-bit
+Required Dependencies: N/A
+Notes: No issues.
+
+### Juice Galaxy
+Bit-ness Architecture: 64-bit
+Required Dependencies: N/A
+Notes: Runs smooth until there are more than a couple enemies, dropping to around 1-5fps.
+
+### Kerbal Space Program
+Bit-ness Architecture: 32-bit; 64-bit
+Required Dependencies: N/A
+Notes: Cycles through loading screens/text, loading bar never progresses, eventually blacks out and must be force closed. Affects both bit-ness.
+
+### Metro 2033 Redux
+Bit-ness Architecture: 64-bit
+Required Dependencies: N/A
+Notes: Game will crash randomly starting at [PRESS ANY KEY], have almost made it in game but always crash beforehand.
+
+### Psychonauts
+Bit-ness Architecture: 32-bit
+Required Dependencies: N/A
+Notes: Runs alright, mouse has hard time binding to screen and can leave screen area causing movement/menu issues.
+
+### XCOM: Enemy Unknown
+Bit-ness Architecture: 32-bit; 64-bit
+Required Dependencies: N/A
+Notes: Game Launcher opens fine, game seems to load then crashes.
+
