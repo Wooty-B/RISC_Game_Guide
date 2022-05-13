@@ -8,7 +8,8 @@ This will be WIP for a short time while working out the layout. Goal is to docum
 
 ## Box86/64 Translation
 
-[WIP]
+[Games List](Translation)
+[Steam Games List](TranslationSteam)
 
 ## BoxWine Emulation
 
