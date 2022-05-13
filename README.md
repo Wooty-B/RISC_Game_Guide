@@ -18,7 +18,7 @@ This will be WIP for a short time while working out the layout. Goal is to docum
 
 ## Setup
 
-Guide currently references the HoneyComb LX2K (aarch64) running Debian, but should apply to most modern ARM devices by tweaking a few flags.
+Guide currently references the HoneyComb LX2K (aarch64) running Debian, but should apply to most modern ARM devices running debian-based systems by tweaking a few flags.
 
 [Setup Multiarch, Box86/64, Wine and Steam](https://github.com/Wooty-B/LX2K_Guide/blob/main/Setup-Armhf-Chroot.md)
 
