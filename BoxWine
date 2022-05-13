@@ -5,17 +5,24 @@ Required MSI Packages: vcrun2008 vcrun2010 dotnet11 dxvk
 Wine Version: 5.21
 Notes: Game boots, and runs "in-game" on low settings; medium/high settings tend to randomly crash after a minute or two. Cut-scenes need to be skipped with [SPACEBAR] or risk crashing.
 
+### Crysis 2 Maximum Edition
+Bit-ness Architecture: 32-bit
+Required Dependencies: gstreamer1.0-plugins-good:armhf
+Required MSI Packages: vcrun2008 vcrun2010 dotnet11 dxvk
+Wine Version: 5.21
+Notes: No issues.
+
 ### The Elder Scrolls IV: Oblivion
 Bit-ness Architecture: 32-bit
 Required Dependencies: gstreamer1.0-plugins-good:armhf
 Required MSI Packages: vcrun2005
 Wine Version: 5.21
-Notes: Game boots, and can run on max settings without crashing. Framerate can suffer at times possibly due to single-threaded performance.
+Notes: No issues.
 
 ### Fallout 3
 Bit-ness Architecture: 32-bit
 Required Dependencies: gstreamer1.0-plugins-good:armhf
 Required MSI Packages: vcrun2005
 Wine Version: 5.21
-Notes: Game boots, and can run on max settings without crashing. Framerate can suffer at times possibly due to single-threaded performance.
+Notes: No issues.
 
