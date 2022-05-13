@@ -1,0 +1,46 @@
+### ArmageTron
+Bit-ness Architecture: 64-bit
+Required Dependencies: N/A
+Notes: No issues.
+
+### RBDoom3BFG (Doom 3 BFG Edition)
+Bit-ness Architecture: 64-bit
+Required Dependencies: N/A
+Notes: Game runs fine other than certain text elements; i.e. In-game computer monitor text is stretched and warped.
+
+### eDuke32 (Duke Nukem 3D)
+Bit-ness Architecture: 32-bit
+Required Dependencies: N/A
+Notes: No issues.
+
+### Flightgear Flight Simulator
+Bit-ness Architecture: 64-bit
+Required Dependencies: N/A
+Notes: Has a few issues once loading into the game, but may be something on my part. Still testing.
+
+### MultiMC (Minecraft Java Edition)
+Bit-ness Architecture: 32-bit; 64-bit
+Required Dependencies: N/A
+Platform Issues/Notes: Some armhf platforms may not be able to load newer java versions.
+Notes: No issues. Runs fine without OptiFine but runs with more chunks with it enabled.
+
+### OpenMW (The Elder Scrolls III: Morrowind)
+Bit-ness Architecture: 32-bit; 64-bit
+Required Dependencies: N/A
+Platform Issues/Notes: Older armhf boards may need to run with variables: force_s3tc_enable=true openmw-launcher
+Notes: Mostly bug-free. Very rare, but after a while I may get a complete system crash. May be my system/drivers. 
+
+### re3 (GTA III & Vice City)
+Bit-ness Architecture: 32-bit(?); 64-bit
+Required Dependencies: N/A
+Notes: No issues. 32-bit untested.
+
+### sm64pc/sm64ex (Super Mario 64)
+Bit-ness Architecture: 32-bit; 64-bit
+Required Dependencies: N/A
+Notes: No issues.
+
+### xray-16 (S.T.A.L.K.E.R)
+Bit-ness Architecture: 64-bit
+Required Dependencies: N/A
+Notes: Game engine runs mostly without lag. Skybox has rendering issues. Text issues similar to RBDoom3BFG; illegible, stretched across hud/menus. May be my system/drivers. 
