@@ -6,7 +6,7 @@ Notes: Helps to use "steam -no-browser" to suppress errors and slightly improve 
 ### Valve Source Games [NEEDS BREAKDOWN]
 Bit-ness Architecture: 32-bit; 64-bit
 Required Dependencies: N/A
-Notes: All Source Engine games run flawlessly with the exception of Portal 2 crashing on launch. Have not tested CS:GO.
+Notes: All Source Engine games seem to run no issue. Have not tested CS:GO.
 
 ### Factorio Demo
 Bit-ness Architecture: 32-bit
