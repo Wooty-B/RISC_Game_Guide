@@ -17,12 +17,12 @@ Bit-ness Architecture: 32-bit
 Required Dependencies: gstreamer1.0-plugins-good:armhf
 Required MSI Packages: vcrun2005
 Wine Version: 5.21
-Notes: No issues.
+Notes: Slight lag during combat. May be single threaded performance.
 
 ### Fallout 3
 Bit-ness Architecture: 32-bit
 Required Dependencies: gstreamer1.0-plugins-good:armhf
 Required MSI Packages: vcrun2005
 Wine Version: 5.21
-Notes: No issues.
+Notes: Slight lag during combat. May be single threaded performance.
 
