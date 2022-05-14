@@ -15,6 +15,7 @@ This will be WIP for a short time while working out the layout. Goal is to docum
 ## BoxWine Translation
 
 [Working Games List](BoxWine)
+[Working Steam Games List](BoxWineProton)
 
 ## Setup
 
