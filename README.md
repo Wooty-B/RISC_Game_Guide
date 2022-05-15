@@ -31,3 +31,5 @@ Guide currently references the HoneyComb LX2K (aarch64) running Debian, but shou
 2. Anti-Aliasing in some games seems to have the biggest impact in performance. May be my system/hardware.
 
 3. Steam Proton "should" work out-of-the-box! Just open Big Picture mode, navigate to the app in question and select Manage Game. Set Steam Play options, and "force" the game to use a version of Proton of your choosing. When you exit, Small View will show only your Linux and Proton selected titles. (Unless you select "All Games" of course)
+
+4. If you have issues with delayed keyboard input, try accessing your desktop Accessibility settings and disable "Repeat Keys".
