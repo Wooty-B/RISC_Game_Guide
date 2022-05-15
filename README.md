@@ -2,6 +2,8 @@
 
 This will be WIP for a short time while working out the layout. Goal is to document running native Linux (binary/source), translated x86 Linux(Box86/64), and emulated Windows (Wine) games and productivity applications and working state. To keep this list curated and manageable, focus should be put on titles that at least initiate a graphical session; first objective is listing all games/apps that are legitimately playable/usable.
 
+The following Games are tested using aarch64 hardware using a desktop class AMD GPU. Will add details for alternative archetectures at some point, as I only have access to older ppc64 hardware.
+
 ## Natively Available
 
 [Working Games List](Native)
