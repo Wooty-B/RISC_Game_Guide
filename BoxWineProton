@@ -9,3 +9,9 @@ Bit-ness Architecture: 64-bit
 Required Dependencies: N/A
 Proton Version In Use: 7.0-2
 Notes: No issues. Occasional stuttering, may be hardware.
+
+### Dead Space
+Bit-ness Architecture: 32-bit
+Required Dependencies: N/A
+Proton Version In Use: 7.0-2
+Notes: Dim "epeleptic inducing" effects during opening scene and main menu, "phantom shadow" effect occasionally popping out of character. Runs smoothly otherwise.
